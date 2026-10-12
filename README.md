@@ -4,12 +4,18 @@
 
 ### Software Developer · Industrial Systems · AI & Automation
 
-> Building software that replaces spreadsheets, manual work and suffering.
+**I build software that turns messy real-world processes into systems people can actually use.**
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=F5821F&center=true&vCenter=true&width=760&lines=React+%2B+Supabase+%2B+Automation;Industrial+Software+%2F+Manufacturing;Building+systems+that+actually+get+used;AI-assisted+development;Chihuahua%2C+Mexico"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=F5821F&center=true&vCenter=true&width=800&lines=React+19+%2B+Vite+8+%2B+Supabase;Industrial+software+%2F+manufacturing;AI-assisted+engineering+%26+automation;Data-heavy+apps+that+replace+manual+work;Ship+%E2%86%92+learn+%E2%86%92+improve+%E2%86%92+repeat"
   alt="Typing SVG"
 />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=reynosoch&style=for-the-badge&color=f5821f&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/reynosoch?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/STATUS-SHIPPING-f5821f?style=for-the-badge" alt="Shipping" />
 
 </div>
 
@@ -21,135 +27,153 @@
 name: Javier Reynoso
 location: Chihuahua, México
 
-focus:
-  - Software Development
-  - Industrial Systems
-  - Artificial Intelligence
-  - Automation
-  - Data Engineering
+building:
+  - industrial web applications
+  - data-heavy internal tools
+  - automation workflows
+  - AI-assisted developer tooling
 
-currently_building:
-  - Inventory Reconciliation System
-  - Fixed Assets Management System
+current_focus:
+  - React architecture
+  - Supabase / PostgreSQL
+  - local-first data with IndexedDB
+  - performance for large datasets
+  - agent-driven engineering workflows
 
 status: shipping
 ```
 
+I like building software where **Excel, repetitive work, scattered data and manual validation** have become the bottleneck.
+
+My favorite projects sit somewhere between **software engineering, industrial operations, data and automation**.
+
 ---
 
-## What I'm building
+## Featured Systems
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Inventory Reconciliation System
 
-### Inventory Reconciler
+> Physical inventory + enterprise data → reconciliation → financial impact → evidence.
 
-Industrial inventory reconciliation system for comparing physical inventory against enterprise-system data.
+An industrial reconciliation platform built to turn large inventory sources into actionable discrepancies instead of another spreadsheet.
 
-**Highlights**
+**What it handles**
 
-- Physical vs system reconciliation
+- Physical vs system inventory reconciliation
 - Financial impact in USD
 - NET / SWING analysis
-- BOM explosion
-- Phantom detection
-- Obsolete inventory analysis
-- Excel ingestion
-- Automated workflows
+- BOM explosion and phantom logic
+- Obsolete and unexpected material detection
+- Excel / CSV / TXT ingestion
+- Large-table virtualization
+- Offline/local cache and persistence
+- Automated validation checks and deployment workflows
 
-**Stack**
+**Current stack**
 
-`React 19` `Vite` `Supabase` `Dexie` `XLSX` `GitHub Actions`
+`React 19` · `Vite 8` · `Supabase` · `Dexie / IndexedDB` · `TanStack Virtual` · `Motion` · `PapaParse` · `XLSX` · `PGlite` · `GitHub Actions`
 
-</td>
-<td width="50%" valign="top">
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-reconciliador--visteon-f5821f?style=for-the-badge&logo=github)](https://github.com/reynosoch/reconciliador-visteon)
+
+---
 
 ### Fixed Assets Tracker
 
-Web platform for managing and auditing **2,400+ fixed assets** in an industrial environment.
+> A web platform for managing and auditing **2,400+ fixed assets** in an industrial environment.
 
-**Highlights**
+**What it handles**
 
-- Centralized asset management
+- Centralized fixed-asset management
 - Real-time synchronization
-- Search and filtering
-- Mobile auditing
-- QR workflows
-- Excel import/export
-- Role-based access
-- Audit traceability
+- Search, filtering and detailed asset views
+- Mobile auditing workflows
+- QR-oriented asset traceability
+- Excel import / export
+- Data validation and auditability
 
-**Stack**
+**Current stack**
 
-`React` `Vite` `Supabase` `PostgreSQL` `Realtime` `QR`
-
-</td>
-</tr>
-</table>
+`React 19` · `Vite 8` · `Tailwind CSS 4` · `Supabase` · `PostgreSQL` · `Realtime` · `Motion` · `XLSX`
 
 ---
 
-## Tech Stack
+## Current Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,supabase,postgres,git,github,githubactions,nodejs,vscode&perline=12" alt="Tech stack" />
+### Core
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,nodejs,supabase,postgres&perline=8" alt="Core technologies" />
 
-`React` · `JavaScript` · `Supabase` · `PostgreSQL` · `Vite` · `Tailwind`
+<br /><br />
 
-`GitHub Actions` · `C#` · `SQL` · `Excel Automation` · `AI Agents`
+### Engineering & Tooling
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,python,cs,dotnet,npm&perline=8" alt="Engineering tools" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+<img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 8" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" />
+<img src="https://img.shields.io/badge/Supabase-PostgreSQL-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Dexie-IndexedDB-8A2BE2?style=flat-square" alt="Dexie IndexedDB" />
+<img src="https://img.shields.io/badge/TanStack-Virtual-FF4154?style=flat-square" alt="TanStack Virtual" />
+<img src="https://img.shields.io/badge/Motion-Animations-FFF312?style=flat-square&logo=framer&logoColor=black" alt="Motion" />
+<img src="https://img.shields.io/badge/PapaParse-Data_Ingestion-2C3E50?style=flat-square" alt="PapaParse" />
+<img src="https://img.shields.io/badge/XLSX-Excel_Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="XLSX" />
+<img src="https://img.shields.io/badge/PGlite-Local_Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGlite" />
 
 </div>
 
 ---
 
-## System Profile
+## How I Like to Build
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  REYNOSO.DEV                                      ● ONLINE   │
-│                                                              │
-│  JAVIER REYNOSO                                              │
-│  SOFTWARE / INDUSTRIAL SYSTEMS / AI                          │
-│                                                              │
-│  > building software for the real world_                     │
-│                                                              │
-│  LOCATION ................................. CHIHUAHUA, MX     │
-│  STATUS ................................... SHIPPING          │
-│  MAIN STACK ............................... REACT / SUPABASE   │
-│  CURRENT OBSESSION ......................... AUTOMATION        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+RAW DATA
+   ↓
+PARSERS / NORMALIZATION
+   ↓
+DOMAIN LOGIC
+   ↓
+VALIDATION
+   ↓
+DATABASE / LOCAL CACHE
+   ↓
+UI / EVIDENCE / EXPORTS
+   ↓
+AUTOMATION
+```
+
+```text
+Useful > flashy
+Simple > clever
+Measured > guessed
+Automated > repetitive
+Shipping > waiting for perfect
 ```
 
 ---
 
-## Things I like building
-
-```text
-INDUSTRIAL SOFTWARE      ██████████████████████████████████████████░░  92%
-AUTOMATION               █████████████████████████████████████████░░░  89%
-ARTIFICIAL INTELLIGENCE  ███████████████████████████████████████████░  95%
-MAKING EXCEL OBSOLETE    ████████████████████████████████████████████ 100%
-```
-
----
-
-## GitHub Stats
+## GitHub Runtime
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reynosoch&show_icons=true&hide_border=true&theme=transparent&title_color=f5821f&icon_color=f5821f&text_color=8b949e" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reynosoch&show_icons=true&hide_border=true&theme=transparent&title_color=f5821f&icon_color=f5821f&text_color=8b949e&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynosoch&layout=compact&hide_border=true&theme=transparent&title_color=f5821f&text_color=8b949e" alt="Top languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynosoch&layout=compact&hide_border=true&theme=transparent&title_color=f5821f&text_color=8b949e" alt="Top languages" />
+<br /><br />
 
-<br><br>
+### Streak
 
-<img src="https://streak-stats.demolab.com?user=reynosoch&theme=transparent&hide_border=true&ring=F5821F&fire=F5821F&currStreakLabel=F5821F" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=reynosoch&theme=transparent&hide_border=true&ring=F5821F&fire=F5821F&currStreakLabel=F5821F&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+
+<br /><br />
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reynosoch&bg_color=00000000&color=f5821f&line=f5821f&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -159,48 +183,41 @@ MAKING EXCEL OBSOLETE    ██████████████████�
 
 ```js
 const javier = {
-  code: ["JavaScript", "C#", "SQL"],
-  frontend: ["React", "Vite", "Tailwind"],
-  backend: ["Supabase", "PostgreSQL"],
+  frontend: ["React 19", "Vite 8", "Tailwind CSS"],
+  data: ["Supabase", "PostgreSQL", "IndexedDB", "PGlite"],
+  tooling: ["GitHub Actions", "XLSX", "PapaParse", "TanStack Virtual"],
+  languages: ["JavaScript", "TypeScript", "C#", "SQL", "Python"],
   interests: [
     "Artificial Intelligence",
     "Automation",
     "Industrial Software",
     "Data Engineering",
-    "Making money"
+    "Developer Tooling"
   ],
 
-  currentMission() {
-    return "build useful shit";
+  mission() {
+    return "turn real problems into useful software";
   }
 };
 ```
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reynosoch&bg_color=00000000&color=f5821f&line=f5821f&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
----
-
-## Currently Learning
+## What I'm Exploring
 
 ```diff
-+ AI Agents
-+ Software Architecture
-+ Data Engineering
-+ Industrial Automation
-+ Better system design
-+ Automating boring work
++ AI agents and coding workflows
++ Better software architecture
++ Local-first and offline-capable apps
++ Data pipelines and reconciliation systems
++ Industrial automation
++ Performance on large datasets
++ Products that survive outside localhost
 
-- Manual repetitive work
-- 47 Excel files doing the job of one application
-- Copy-paste driven development
+- repetitive manual work
+- mystery spreadsheets
+- copy-paste workflows
+- features nobody uses
 ```
 
 ---
@@ -208,45 +225,66 @@ const javier = {
 ## System Check
 
 ```text
-SYSTEM BOOT .......................................... OK
-REACT ................................................ OK
-SUPABASE ............................................. OK
-DATABASE ............................................. OK
-GITHUB ACTIONS ....................................... OK
-COFFEE ............................................... OK
-MENTAL STABILITY ..................................... UNKNOWN
-PRODUCTION BUGS ...................................... PROBABLY
-EXCEL ................................................ THREAT DETECTED
-6 7 .................................................. CRITICAL
+REACT 19 ............................................. ONLINE
+VITE 8 ............................................... ONLINE
+SUPABASE / POSTGRES .................................. ONLINE
+INDEXEDDB ............................................ ONLINE
+GITHUB ACTIONS ....................................... ONLINE
+AI TOOLCHAIN ......................................... EVOLVING
+COFFEE ............................................... REQUIRED
+EXCEL ................................................ UNDER SURVEILLANCE
+PRODUCTION BUGS ...................................... CHARACTER BUILDING
 ```
 
 ---
 
 <details>
-<summary><strong>⚠ CLASSIFIED SYSTEM INFORMATION</strong></summary>
+<summary><strong>developer diagnostics</strong></summary>
 
-<br>
+```text
+[BOOT] Loading reynoso.dev...
+
+[OK] React detected
+[OK] Supabase detected
+[OK] PostgreSQL detected
+[OK] IndexedDB detected
+[OK] GitHub Actions detected
+[OK] Industrial software obsession detected
+
+[INFO] Current migration strategy:
+
+manual process
+      ↓
+structured data
+      ↓
+software
+      ↓
+automation
+      ↓
+less suffering
+
+[SUCCESS] system operational
+```
+
+</details>
+
+<details>
+<summary><strong>⚠ classified protocol</strong></summary>
 
 <div align="center">
 
-## SIX
-
-<img src="https://media.giphy.com/media/RVCJ3vwebUGDpoy7Tm/giphy.gif" width="300" alt="Six seven" />
+<br />
 
 # 6️⃣ 7️⃣
 
-## SEVEN
-
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║           SIX SEVEN PROTOCOL                 ║
-║                                              ║
-║              STATUS: ACTIVE                  ║
-║                                              ║
-║                6     7                       ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔════════════════════════════════════╗
+║                                    ║
+║        SIX SEVEN PROTOCOL          ║
+║                                    ║
+║           STATUS: ACTIVE           ║
+║                                    ║
+╚════════════════════════════════════╝
 ```
 
 `you found the important part of this profile`
@@ -257,83 +295,19 @@ EXCEL ................................................ THREAT DETECTED
 
 ---
 
-<details>
-<summary><strong>developer diagnostics</strong></summary>
-
-```text
-[BOOT] Loading developer profile...
-
-[OK] React detected
-[OK] Supabase detected
-[OK] PostgreSQL detected
-[OK] GitHub Actions detected
-[OK] Industrial software obsession detected
-
-[WARN] Too many Excel files detected
-
-[INFO] Attempting migration...
-
-Excel.exe
-    ↓
-React
-    ↓
-Supabase
-    ↓
-Automation
-    ↓
-Profit
-
-[SUCCESS]
-
-Checking hidden protocols...
-
-protocol_01 ...................... PASS
-protocol_02 ...................... PASS
-protocol_03 ...................... PASS
-protocol_67 ...................... ███████████████ ACTIVE
-
-WARNING:
-DO NOT ASK WHAT 6 7 MEANS.
-```
-
-</details>
-
----
-
-## Philosophy
-
-```text
-BUILD → BREAK → FIX → AUTOMATE → SHIP → REPEAT
-```
-
----
-
 <div align="center">
 
-## Ship. Break. Learn. Repeat.
+## BUILD → BREAK → FIX → AUTOMATE → SHIP → REPEAT
 
-### Chihuahua, México
+**Chihuahua, México**
 
-<br>
+<br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=reynosoch&style=flat-square&color=f5821f&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-reynosoch.github.io-f5821f?style=for-the-badge&logo=githubpages&logoColor=white)](https://reynosoch.github.io)
+[![GitHub](https://img.shields.io/badge/GITHUB-@reynosoch-181717?style=for-the-badge&logo=github)](https://github.com/reynosoch)
 
-<br><br>
+<br /><br />
 
 `built with caffeine, questionable decisions and git push`
 
-<br><br>
-
-<sub>if you made it this far: six seven</sub>
-
 </div>
-
-<!--
-YOU SHOULDN'T BE HERE.
-
-SYSTEM OVERRIDE:
-6
-7
-
-carry on.
--->
