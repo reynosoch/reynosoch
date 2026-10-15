@@ -1,264 +1,217 @@
 <div align="center">
 
-# JAVIER REYNOSO
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Javier%20Reynoso&fontSize=46&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:F5821F,45:FF4D00,75:00C2FF,100:6C63FF" alt="Javier Reynoso header" />
 
-### Software Developer · Product Builder · AI & Automation
+# hey, i'm javier 👋
 
-**I turn real-world workflows, spreadsheets and scattered data into software people can actually use.**
+### Software Developer · Founder @ Viral Studio · Product Builder · AI & Automation
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=F5821F&center=true&vCenter=true&width=850&lines=React+19+%2B+Vite+8+%2B+TypeScript;Supabase+%2B+PostgreSQL+%2B+local-first+data;Browser+AI+%2F+ML+%2B+automation;Industrial+tools+%2B+data-heavy+applications;Build+%E2%86%92+test+%E2%86%92+ship+%E2%86%92+learn+%E2%86%92+repeat"
-  alt="Typing SVG"
-/>
+**I build useful software, weird little tools and products that turn messy real-world workflows into something people actually want to use.**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=F5821F&center=true&vCenter=true&width=900&lines=Founder+%40+Viral+Studio+%F0%9F%9A%80;React+19+%2B+Vite+8+%2B+TypeScript;Supabase+%2B+PostgreSQL+%2B+local-first+apps;Browser+AI+%2F+ML+%2B+automation;Build+%E2%86%92+break+%E2%86%92+fix+%E2%86%92+ship+%E2%86%92+repeat" alt="Animated typing intro" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=reynosoch&style=for-the-badge&color=f5821f&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/reynosoch?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-f5821f?style=for-the-badge" alt="Building" />
+<a href="https://instagram.com/itsreynoso"><img src="https://img.shields.io/badge/Instagram-@itsreynoso-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @itsreynoso" /></a>
+<a href="https://github.com/reynosoch"><img src="https://img.shields.io/badge/GitHub-@reynosoch-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Founder-Viral%20Studio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Founder Viral Studio" />
+<img src="https://komarev.com/ghpvc/?username=reynosoch&style=for-the-badge&color=F5821F&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br /><br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reynosoch&show_icons=true&hide_border=true&theme=transparent&title_color=F5821F&icon_color=00C2FF&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynosoch&layout=compact&hide_border=true&theme=transparent&title_color=00C2FF&text_color=8B949E" alt="Top languages" />
 
 </div>
 
 ---
 
-## `> whoami`
+## `whoami.ts` ⚡
 
-```yaml
-name: Javier Reynoso
-location: Chihuahua, México
-role: IT & Digital Innovation Engineering student
+```ts
+const javier = {
+  name: "Javier Reynoso",
+  location: "Chihuahua, México",
+  role: "Software Developer",
+  founder: "Viral Studio",
+  instagram: "@itsreynoso",
 
-building:
-  - data-heavy web applications
-  - industrial and operational tools
-  - browser-first utilities
-  - automation workflows
-  - AI-assisted products
+  building: [
+    "data-heavy web apps",
+    "browser-first utilities",
+    "AI-assisted products",
+    "automation workflows",
+    "creative startup experiences"
+  ],
 
-current_focus:
-  - frontend architecture with React
-  - TypeScript and modern JavaScript
-  - Supabase / PostgreSQL
-  - local-first and offline-capable apps
-  - browser-side AI / ML
-  - testing, CI and performance
-
-status: shipping
+  mission() {
+    return "build cool things that actually solve something";
+  }
+};
 ```
 
-I enjoy working where **manual processes, Excel files, repetitive validation and disconnected information** have become the bottleneck.
+I like working where **spreadsheets, repetitive work, scattered information and ugly workflows** start getting in the way.
 
-My work usually lives at the intersection of **software engineering, product design, data, automation and real operational problems**.
+That usually ends with me building a tool for it.
 
 ---
 
-## What I'm Working On
+## founder mode 🚀
 
-> Some current work lives in private repositories. The descriptions below intentionally focus on engineering scope and public-safe technical details.
+I'm building **Viral Studio**, a startup focused on mixing **software, automation, strong visual direction and digital product thinking**.
 
-### Industrial Data & Reconciliation Systems
+The fun part for me is not just writing code — it's going from:
 
-Building internal web applications that ingest large spreadsheet-based datasets, normalize them, apply domain rules and turn differences into traceable evidence and actionable views.
+```text
+idea → problem → product → experience → ship
+```
 
-**Engineering areas:**
+Current creative stack:
 
-`React` · `Vite` · `Supabase` · `PostgreSQL` · `Dexie / IndexedDB` · `TanStack Virtual` · `PGlite` · `XLSX` · `PapaParse` · `GitHub Actions`
+`React` · `TypeScript` · `Vite` · `GSAP` · `Motion` · `Lenis` · `product design` · `AI-assisted workflows`
 
-### Asset Audit & Tracking Platform
+> startup status: **BUILDING**
 
-Developing a responsive application for structured asset management and auditing, with real-time data, mobile-oriented workflows, imports/exports and traceability.
+---
 
-**Engineering areas:**
+## what i'm building right now 🔥
 
-`React` · `Vite` · `Tailwind CSS` · `Supabase Realtime` · `PostgreSQL` · `Motion` · `XLSX`
+> Some current work lives in private repositories. I keep the descriptions here intentionally public-safe and focused on engineering.
 
-### Spreadsheet Delta Monitoring
+### 📊 Industrial data systems
+Web applications that ingest large spreadsheet datasets, normalize them, run domain rules and turn differences into traceable, reviewable information.
 
-Working on a lightweight browser tool for comparing changing spreadsheet datasets, detecting volume deltas and presenting reviewable differences without forcing users into a complex workflow.
+`React` · `Vite` · `Supabase` · `PostgreSQL` · `Dexie / IndexedDB` · `TanStack Virtual` · `PGlite` · `XLSX` · `PapaParse`
 
-**Engineering areas:**
+### 📱 Asset audit & tracking
+Responsive tools for structured asset management, real-time updates, mobile-oriented workflows, imports/exports and traceability.
+
+`React` · `Tailwind CSS` · `Supabase Realtime` · `PostgreSQL` · `Motion` · `XLSX`
+
+### 📈 Spreadsheet delta monitoring
+A lightweight browser workflow for comparing changing spreadsheet datasets and surfacing meaningful differences without turning the process into another giant spreadsheet.
 
 `React` · `Vite` · `Vitest` · `ESLint` · `Excel ingestion`
 
-### Product & Creative Web Development
+### 🎬 Viral Studio web
+Creative frontend work focused on motion, storytelling, visual identity and modern product experiences.
 
-Exploring high-polish product experiences that combine engineering with stronger visual direction, interaction design and motion.
-
-**Engineering areas:**
-
-`React` · `TypeScript` · `GSAP` · `Lenis` · `Motion` · `Vite` · `Oxlint`
+`React` · `TypeScript` · `GSAP` · `Lenis` · `Motion`
 
 ---
 
-## Public Projects
+## public stuff you can actually open 🛠️
 
-### Reynoso Toolchain
+### 🔧 [Reynoso Toolchain](https://reynosoch.github.io/)
 
-A growing collection of browser-first tools I use for development, study and everyday work.
+My personal collection of browser-first tools for development, study and everyday work.
 
-It includes utilities for **device-to-device transfer, transcription, audio cleanup, screenshots and annotations, format conversion, background removal, snippets and structured briefs**.
+It includes things like:
 
-The project has also become my playground for building software that performs useful work **locally in the browser**.
+`Drop` · `Transcribe` · `Shot` · `Convert` · `Cutout` · `Audio Lab` · `Snippets`
 
-**Things I've worked with here:**
+I've used it to experiment with:
 
-- WebRTC-style device workflows and PWA behavior
-- Service Workers and offline-aware UX
-- Browser-side ML with ONNX Runtime Web
-- Image editing with Fabric.js
-- Local background removal
-- Audio and transcription pipelines
-- Indexed/local persistence
-- Playwright browser testing
-- Node test runner
-- esbuild and custom build scripts
+- device-to-device workflows
+- PWA + Service Workers
+- browser-side AI / ML
+- ONNX Runtime Web
+- local image processing
+- audio / transcription pipelines
+- Fabric.js editing
+- IndexedDB persistence
+- Playwright browser tests
+- custom Node / esbuild tooling
 
-[![Open Toolchain](https://img.shields.io/badge/OPEN-REYNOSO_TOOLCHAIN-f5821f?style=for-the-badge&logo=githubpages&logoColor=white)](https://reynosoch.github.io/)
-[![Source](https://img.shields.io/badge/SOURCE-reynosoch.github.io-181717?style=for-the-badge&logo=github)](https://github.com/reynosoch/reynosoch.github.io)
+[![OPEN TOOLCHAIN](https://img.shields.io/badge/OPEN-REYNOSO%20TOOLCHAIN-F5821F?style=for-the-badge&logo=githubpages&logoColor=white)](https://reynosoch.github.io/)
+[![SOURCE](https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/reynosoch/reynosoch.github.io)
 
-### Reynoso LAB
+### 🧪 [Reynoso LAB](https://github.com/reynosoch/reynoso-lab)
 
-A small environment for discovering, testing and documenting tools and repositories before deciding whether they deserve a place in my normal workflow.
+A playground where I test tools, repositories and ideas before deciding if they deserve to become part of my normal workflow.
 
-`JavaScript` · `Node.js` · `Playwright` · `browser testing` · `experimentation`
-
-[![Open LAB](https://img.shields.io/badge/OPEN-REYNOSO_LAB-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reynosoch/reynoso-lab)
+`JavaScript` · `Node.js` · `Playwright` · `experimentation`
 
 ---
 
-## Tech I've Used
+## tech i use / have used 🎨
 
 <div align="center">
 
-### Frontend & Product
-
-<img src="https://skillicons.dev/icons?i=react,vite,js,ts,tailwind,html,css&perline=7" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,nodejs,supabase,postgres,python,cs,dotnet,git,github,githubactions,vscode&perline=8" alt="Tech stack" />
 
 <br /><br />
 
-`React 19` · `Vite 8` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `Motion` · `GSAP` · `Lenis` · `Lucide`
-
-<br /><br />
-
-### Data & Backend
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs&perline=3" alt="Data and backend technologies" />
-
-<br /><br />
-
-`Supabase` · `PostgreSQL` · `Realtime` · `IndexedDB` · `Dexie` · `PGlite` · `XLSX` · `PapaParse`
-
-<br /><br />
-
-### Testing, Build & Delivery
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,vscode&perline=5" alt="Engineering tooling" />
-
-<br /><br />
-
-`Git` · `GitHub` · `GitHub Actions` · `Playwright` · `Vitest` · `Node Test Runner` · `ESLint` · `Oxlint` · `esbuild`
-
-<br /><br />
-
-### Browser AI, Media & Local Processing
-
-`ONNX Runtime Web` · `Whisper workflows` · `OCR workflows` · `Fabric.js` · `background removal` · `audio processing` · `Service Workers` · `PWA`
-
-<br /><br />
-
-### Languages & Foundations
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,dotnet,postgres&perline=6" alt="Languages" />
-
-<br /><br />
-
-`JavaScript` · `TypeScript` · `Python` · `C#` · `.NET` · `SQL`
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+<img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 8" />
+<img src="https://img.shields.io/badge/TypeScript-Modern%20Frontend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Supabase-PostgreSQL-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Dexie-IndexedDB-8B5CF6?style=flat-square" alt="Dexie" />
+<img src="https://img.shields.io/badge/PGlite-Local%20Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGlite" />
+<img src="https://img.shields.io/badge/Playwright-Browser%20Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Vitest-Testing-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/XLSX-Excel%20Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="XLSX" />
+<img src="https://img.shields.io/badge/PapaParse-Data%20Ingestion-334155?style=flat-square" alt="PapaParse" />
+<img src="https://img.shields.io/badge/ONNX%20Runtime%20Web-Browser%20AI-005CED?style=flat-square" alt="ONNX Runtime Web" />
+<img src="https://img.shields.io/badge/Fabric.js-Image%20Editing-F97316?style=flat-square" alt="Fabric.js" />
+<img src="https://img.shields.io/badge/GSAP-Motion-88CE02?style=flat-square" alt="GSAP" />
+<img src="https://img.shields.io/badge/Lenis-Smooth%20Scroll-111827?style=flat-square" alt="Lenis" />
+<img src="https://img.shields.io/badge/Oxlint-Fast%20Linting-8B5CF6?style=flat-square" alt="Oxlint" />
 
 </div>
 
 ---
 
-## How I Build
+## how my brain likes to build 🧩
 
 ```text
-REAL PROBLEM
-     ↓
-RAW DATA / USER FLOW
-     ↓
-PARSING + NORMALIZATION
-     ↓
-DOMAIN LOGIC
-     ↓
-VALIDATION + TESTS
-     ↓
-DATABASE / LOCAL STORAGE
-     ↓
-UI + EVIDENCE + EXPORTS
-     ↓
-AUTOMATION + ITERATION
+REAL PROBLEM / RANDOM IDEA
+          ↓
+figure out what actually matters
+          ↓
+build the smallest useful version
+          ↓
+test it
+          ↓
+break something
+          ↓
+fix it
+          ↓
+ship it
+          ↓
+learn from real use
 ```
 
 ```text
 Useful > flashy
 Clear > clever
-Measured > guessed
-Automated > repetitive
-Privacy-aware > convenient shortcuts
-Shipping > waiting for perfect
+Systems > chaos
+Automation > repetitive work
+Ship > overthink
 ```
 
 ---
 
-## Engineering Interests
-
-```diff
-+ AI-assisted software engineering
-+ Browser-side AI / ML
-+ Local-first applications
-+ Industrial and operational software
-+ Data pipelines and reconciliation
-+ Developer tools
-+ Automation
-+ Performance on large datasets
-+ Product design and interaction
-+ Software that survives outside localhost
-
-- repetitive manual work
-- mystery spreadsheets
-- copy-paste workflows
-- fragile demos with no validation
-- features nobody uses
-```
-
----
-
-## GitHub Runtime
+## github runtime 📈
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reynosoch&show_icons=true&hide_border=true&theme=transparent&title_color=f5821f&icon_color=f5821f&text_color=8b949e&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynosoch&layout=compact&hide_border=true&theme=transparent&title_color=f5821f&text_color=8b949e" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=reynosoch&theme=transparent&hide_border=true&ring=F5821F&fire=00C2FF&currStreakLabel=F5821F&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
 <br /><br />
 
-### Streak
-
-<img src="https://streak-stats.demolab.com?user=reynosoch&theme=transparent&hide_border=true&ring=F5821F&fire=F5821F&currStreakLabel=F5821F&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-
-<br /><br />
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reynosoch&bg_color=00000000&color=f5821f&line=f5821f&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reynosoch&bg_color=00000000&color=00C2FF&line=F5821F&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity" />
 
 </div>
 
 ---
 
-## Current Runtime
+## current runtime 🧠
 
 ```js
-const javier = {
+const runtime = {
   frontend: [
     "React 19",
     "Vite 8",
@@ -281,6 +234,7 @@ const javier = {
     "Vitest",
     "Node Test Runner",
     "ESLint",
+    "Oxlint",
     "GitHub Actions"
   ],
 
@@ -300,113 +254,63 @@ const javier = {
     "SQL"
   ],
 
-  interests: [
-    "Artificial Intelligence",
-    "Automation",
-    "Industrial Software",
-    "Data Engineering",
-    "Developer Tooling",
-    "Product Design"
-  ],
-
-  mission() {
-    return "turn real problems into useful software";
-  }
+  currently: "building, learning, shipping"
 };
 ```
 
 ---
 
-## System Check
+## currently exploring 👾
 
-```text
-REACT ................................................ ONLINE
-TYPESCRIPT ........................................... ONLINE
-VITE ................................................. ONLINE
-SUPABASE / POSTGRES .................................. ONLINE
-LOCAL-FIRST DATA ..................................... ONLINE
-TESTING / CI ......................................... ONLINE
-BROWSER AI ........................................... EXPANDING
-AI TOOLCHAIN ......................................... EVOLVING
-EXCEL ................................................ UNDER SURVEILLANCE
-COFFEE ............................................... REQUIRED
-PRODUCTION BUGS ...................................... CHARACTER BUILDING
+```diff
++ AI agents and coding workflows
++ browser-side AI / ML
++ local-first software
++ data-heavy application performance
++ startup building
++ developer tooling
++ products that survive outside localhost
+
+- repetitive manual work
+- ugly workflows
+- copy-paste chaos
+- mystery spreadsheets
+- features nobody asked for
 ```
 
 ---
 
-<details>
-<summary><strong>developer diagnostics</strong></summary>
+## system check 🎮
 
 ```text
-[BOOT] Loading reynoso.dev...
-
-[OK] React detected
-[OK] TypeScript detected
-[OK] Supabase detected
-[OK] PostgreSQL detected
-[OK] IndexedDB detected
-[OK] Browser tooling detected
-[OK] Tests detected
-[OK] GitHub Actions detected
-
-[INFO] Preferred migration strategy:
-
-manual process
-      ↓
-structured data
-      ↓
-software
-      ↓
-automation
-      ↓
-less suffering
-
-[SUCCESS] system operational
+REACT 19 ........................................ ONLINE
+TYPESCRIPT ...................................... ONLINE
+SUPABASE / POSTGRES ............................. ONLINE
+LOCAL-FIRST DATA ................................ ONLINE
+TESTING / CI .................................... ONLINE
+BROWSER AI ...................................... EXPANDING
+VIRAL STUDIO .................................... BUILDING
+COFFEE .......................................... REQUIRED
+TOO MANY IDEAS .................................. DEFINITELY
+PRODUCTION BUGS ................................. CHARACTER BUILDING
 ```
-
-</details>
-
-<details>
-<summary><strong>⚠ classified protocol</strong></summary>
-
-<div align="center">
-
-<br />
-
-# 6️⃣ 7️⃣
-
-```text
-╔════════════════════════════════════╗
-║                                    ║
-║        SIX SEVEN PROTOCOL          ║
-║                                    ║
-║           STATUS: ACTIVE           ║
-║                                    ║
-╚════════════════════════════════════╝
-```
-
-`you found the important part of this profile`
-
-</div>
-
-</details>
 
 ---
 
 <div align="center">
 
-## BUILD → TEST → BREAK → FIX → AUTOMATE → SHIP → REPEAT
+## let's build something cool ✨
 
-**Chihuahua, México**
-
-<br />
-
-[![Toolchain](https://img.shields.io/badge/TOOLCHAIN-reynosoch.github.io-f5821f?style=for-the-badge&logo=githubpages&logoColor=white)](https://reynosoch.github.io/)
-[![GitHub](https://img.shields.io/badge/GITHUB-@reynosoch-181717?style=for-the-badge&logo=github)](https://github.com/reynosoch)
+<a href="https://instagram.com/itsreynoso"><img src="https://img.shields.io/badge/DM%20ME-@itsreynoso-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="DM @itsreynoso" /></a>
+<a href="https://github.com/reynosoch"><img src="https://img.shields.io/badge/FOLLOW-GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://reynosoch.github.io/"><img src="https://img.shields.io/badge/OPEN-TOOLCHAIN-F5821F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Reynoso Toolchain" /></a>
 
 <br /><br />
 
 `built with caffeine, curiosity and git push`
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F5821F,45:FF4D00,75:00C2FF,100:6C63FF" alt="footer" />
 
 </div>
